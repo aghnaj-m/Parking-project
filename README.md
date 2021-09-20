@@ -1,7 +1,7 @@
 released : 2017
 # Parking-project
 
-This application was developed in Java and Java script, dedicated  for motorists so that they can find parking spaces in their surroundings easily and quickly in the circumstances of traffic jam or lack of time.
+This application was developed in Java and JavaScript, dedicated for motorists so that they can find parking spaces in their surroundings easily and quickly in the circumstances of traffic jam or lack of time.
 
 registration can be done with a login and password as usual if not with a QR code as follows
 
