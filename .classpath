@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<accessrules>
+			<accessrule kind="accessible" pattern="javafx/**"/>
+		</accessrules>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="PImages"/>
+	<classpathentry kind="lib" path="/Users/Mac/Documents/java project libraries/QRCodes/jars required/zxing-1.7-javase.jar"/>
+	<classpathentry kind="lib" path="/Users/Mac/Documents/java project libraries/QRCodes/jars required/zxing-core-2.0.jar"/>
+	<classpathentry kind="lib" path="/Users/Mac/Documents/java project libraries/QRCodes/jars required/webcam-capture-0.3.10-dist/webcam-capture-0.3.10.jar"/>
+	<classpathentry kind="lib" path="/Users/Mac/Documents/java project libraries/QRCodes/jars required/webcam-capture-0.3.10-dist/libs/bridj-0.6.2.jar"/>
+	<classpathentry kind="lib" path="/Users/Mac/Documents/java project libraries/QRCodes/jars required/webcam-capture-0.3.10-dist/libs/slf4j-api-1.7.2.jar"/>
+	<classpathentry kind="lib" path="/Users/Mac/Documents/java project libraries/swingx-1.6.1.jar"/>
+	<classpathentry kind="lib" path="/Users/Mac/Documents/java project libraries/jxbrowser/lib/jxbrowser-6.23.jar"/>
+	<classpathentry kind="lib" path="/Users/Mac/Documents/java project libraries/jxbrowser/lib/jxbrowser-linux64-6.23.jar"/>
+	<classpathentry kind="lib" path="/Users/Mac/Documents/java project libraries/jxbrowser/lib/jxbrowser-mac-6.23.jar"/>
+	<classpathentry kind="lib" path="/Users/Mac/Documents/java project libraries/jxbrowser/lib/jxbrowser-win32-6.23.jar"/>
+	<classpathentry kind="lib" path="/Users/Mac/Documents/java project libraries/jxbrowser/lib/jxbrowser-win64-6.23.jar"/>
+	<classpathentry kind="lib" path="/Users/Mac/Documents/java project libraries/jxbrowser/demo/jxbrowserdemo.jar"/>
+	<classpathentry kind="lib" path="/Users/Mac/Documents/java project libraries/JAVAMAIL/mailapi-1.6.2.jar"/>
+	<classpathentry kind="lib" path="/Users/Mac/Documents/java project libraries/JAVAMAIL/smtp-1.6.2.jar"/>
+	<classpathentry kind="lib" path="/Users/Mac/Downloads/jar_files/mysql-connector-java-8.0.15.jar"/>
+	<classpathentry kind="lib" path="/Users/Mac/Downloads/jar_files/protobuf-java-3.6.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
