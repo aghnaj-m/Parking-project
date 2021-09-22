@@ -3,7 +3,7 @@ released : 2017
 
 This application was developed in Java and JavaScript, dedicated for motorists so that they can find parking spaces in their surroundings easily and quickly in the circumstances of traffic jam or lack of time.
 
-# ⚠️ Disclaimer
+## ⚠️ Disclaimer
 
 <li>This repository is made public only as a material proof to link to from my resume</li>
 <li>This repository does not represent my current skills nor it reflects the code quality of the projects that I work on currently</li>
